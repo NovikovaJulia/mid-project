@@ -1,4 +1,4 @@
-<img width="200" src="https://raw.githubusercontent.com/NovikovaJulia/mid-project/master/images/churn.png">
+<img width="1000" src="https://raw.githubusercontent.com/NovikovaJulia/mid-project/master/images/churn.png">
 
 
 # Ecommerce Customer Churn Analysis and Prediction
